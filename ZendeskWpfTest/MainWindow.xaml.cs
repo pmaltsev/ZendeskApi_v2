@@ -27,6 +27,7 @@ namespace ZendeskWpfTest
         public MainWindow()
         {
             InitializeComponent();
+	//тут фигня какая-то измененная
         }
 
 
